@@ -1,3 +1,5 @@
+# Hey there, I'm Bassant Fathy 👋
+
 <div align="center" width="100%">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
@@ -6,9 +8,14 @@
 
 <hr>
 
-### 👋 Hello! I'm **Bassant Fathy** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## 🚀 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+
 A student passionate about programming 🚀. Currently learning **C++**, **OOP** and problem-solving using **Visual Studio** to build my skills 💻.  
 Also, I'm a student in **Abu-Hadhoud Roadmap on ProdrammingAdvices**. I love building projects, improving my skills, and sharing my progress with the community.
+
+<br clear="right"/>
+
 
 ---
 
