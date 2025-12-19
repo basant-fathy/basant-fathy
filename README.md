@@ -1,10 +1,7 @@
 # Hey there, I'm Bassant Fathy 👋
 
-<div align="center" width="100%">
+#### 👨‍💻 Passionate about C++, OOP, Problem Solving & Building projects for learning.
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
-
-</div>
 
 <hr>
 
