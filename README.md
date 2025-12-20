@@ -64,6 +64,7 @@ Also, I'm a student in **Abu-Hadhoud Roadmap on ProdrammingAdvices**. I love bui
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/basant-fathy?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=basant-fathy&repo=basant-fathy&countColor=%237B1E7B" />
 </p>
 
 ---
