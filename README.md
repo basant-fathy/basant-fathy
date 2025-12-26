@@ -1,20 +1,20 @@
 # Hey there, I'm Bassant Fathy 👋
 
-#### 👩‍💻 C++ Developer | OOP Enthusiast | Problem Solving Learner
+#### 👩‍💻 Software Development Learner | C++ & OOP | Problem Solving
 
 ---
 
 ## 🚀 About Me
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I'm a student passionate about programming and continuous learning.  
+I'm a software development learner focused on building a strong foundation through consistent practice and structured learning. 
 Currently focusing on **C++**, **Object-Oriented Programming (OOP)**, and **Problem Solving**, while building real projects to apply what I learn step by step.
 
-I'm following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my full learning journey on GitHub to reflect practical understanding, not just theory.
+I'm following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my learning journey on GitHub to reflect practical understanding through real implementation, not just theory.
+
+I document my structured learning path, courses, certificates, and applied tasks On This Repository.👇
 
 ### 🔗 [**My Programming Learning Journey Repo**](https://github.com/basant-fathy/Programming-Learning-Journey)
-I document my structured learning path, courses, certificates, and applied tasks On This Repository.
-
 
 <br clear="right"/>
 
@@ -42,7 +42,7 @@ These projects are part of my learning journey, helping me improve my C++ skills
 ## 🏆 Achievements
 - Completed **10 – OOP as it Should Be (Concepts)**  
 - Finished **9+ courses** in Abu-Hadhoud Roadmap  
-- Solved **400+ programming problems**
+- Solved **hundreds of programming problems**
 - Built multiple C++ projects from scratch
 
 ---
