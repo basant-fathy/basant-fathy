@@ -10,7 +10,11 @@
 I'm a student passionate about programming and continuous learning.  
 Currently focusing on **C++**, **Object-Oriented Programming (OOP)**, and **Problem Solving**, while building real projects to apply what I learn step by step.
 
-I'm following **Abu-Hadhoud Roadmap** [**Programming Advices**](https://programmingadvices.com) and documenting my full learning journey on GitHub to reflect practical understanding, not just theory.
+I'm following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my full learning journey on GitHub to reflect practical understanding, not just theory.
+
+## 🔗 [**My Programming Learning Journey Repo**](https://github.com/basant-fathy/Programming-Learning-Journey)
+I document my structured learning path, courses, certificates, and applied tasks On This Repository.
+
 
 <br clear="right"/>
 
@@ -24,12 +28,6 @@ I'm following **Abu-Hadhoud Roadmap** [**Programming Advices**](https://programm
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
 
----
-
-## 📚 Programming Learning Journey
-This repository documents my structured learning path, courses, certificates, and applied tasks.
-
-🔗 [**Programming Learning Journey Repo**](https://github.com/basant-fathy/Programming-Learning-Journey)
 
 ---
 
