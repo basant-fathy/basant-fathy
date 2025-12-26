@@ -12,7 +12,7 @@ Currently focusing on **C++**, **Object-Oriented Programming (OOP)**, and **Prob
 
 I'm following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my full learning journey on GitHub to reflect practical understanding, not just theory.
 
-## 🔗 [**My Programming Learning Journey Repo**](https://github.com/basant-fathy/Programming-Learning-Journey)
+### 🔗 [**My Programming Learning Journey Repo**](https://github.com/basant-fathy/Programming-Learning-Journey)
 I document my structured learning path, courses, certificates, and applied tasks On This Repository.
 
 
@@ -54,26 +54,8 @@ These projects are part of my learning journey, helping me improve my C++ skills
 - Writing clean, well-documented code
 - Building a strong GitHub & LinkedIn profile
 
----
-
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
-</div>
-
----
-
-<div align="center"> 
-  <table> 
-    <tr> 
-      <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=basant-fathy&show_icons=true&theme=tokyonight" />
-      </td> 
-    </tr>
-  </table>
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basant-fathy&layout=compact&theme=tokyonight" />
 </div>
 
 ---
