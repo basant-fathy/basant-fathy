@@ -1,6 +1,6 @@
 # Hey there, I'm Bassant Fathy 👋
 
-#### 👩‍💻 Software Development Learner | C++ & OOP | Problem Solving
+#### 👩‍💻 Software Development Learner | C# .NET | OOP | Problem Solving
 
 ---
 
