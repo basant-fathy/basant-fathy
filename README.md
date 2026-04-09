@@ -1,18 +1,19 @@
 # Hey there, I'm Bassant Fathy 👋
 
-#### 👩‍💻 Software Development Learner | C# .NET | OOP | Problem Solving
+#### 👩‍💻 Aspiring .NET Developer | C# | Windows Forms | OOP | Problem Solving
 
 ---
 
 ## 🚀 About Me
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-I'm a software development learner focused on building a strong foundation through consistent practice and structured learning. 
-Currently focusing on **C++**, **Object-Oriented Programming (OOP)**, and **Problem Solving**, while building real projects to apply what I learn step by step.
+I'm a software development learner currently focused on building **desktop applications using C# and .NET (Windows Forms)**.
 
-I'm following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my learning journey on GitHub to reflect practical understanding through real implementation, not just theory.
+My journey started with **C++ and Object-Oriented Programming (OOP)**, where I built a strong foundation in problem solving and logical thinking. Now, I’m applying these fundamentals to real-world projects and focusing on writing clean, maintainable code.
 
-I document my structured learning path, courses, certificates, and applied tasks On This Repository.👇
+I follow a **structured, practice-driven approach** — learning concepts, then immediately applying them through real projects.
+
+I'm also following **Abu-Hadhoud Roadmap (Programming Advices)** and documenting my entire learning journey on GitHub.
 
 ### 🔗 [**My Programming Learning Journey Repo**](https://github.com/basant-fathy/Programming-Learning-Journey)
 
@@ -22,37 +23,45 @@ I document my structured learning path, courses, certificates, and applied tasks
 
 ## 🛠️ Skills & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-004B87?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem%20Solving-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </div>
-
 
 ---
 
 ## 🏦 My Projects
-These projects are part of my learning journey, helping me improve my C++ skills and problem-solving abilities, even if they are simple.
+These projects represent my journey from learning fundamentals to building real applications.
+
+### 💻 Desktop Applications (C# .NET)
+- 🔗 [**Tic-Tac-Toe_Game**](https://github.com/basant-fathy/Tic-Tac-Toe_Game)
+
+### ⚙️ C++ Projects (Foundations)
 - 🔗 [**Bank System**](https://github.com/basant-fathy/Bank-System)
 - 🔗 [**ATM System**](https://github.com/basant-fathy/ATM-System)  
 - 🔗 [**Math Game**](https://github.com/basant-fathy/Math-Game)  
 - 🔗 [**Stone Paper Scissors**](https://github.com/basant-fathy/Stone-Paper-Scissors)
+
 ---
 
 ## 🏆 Achievements
-- Completed **10 – OOP as it Should Be (Concepts)**  
-- Finished **9+ courses** in Abu-Hadhoud Roadmap  
-- Solved **hundreds of programming problems**
-- Built multiple C++ projects from scratch
+- Built multiple projects using **C++**
+- Strong foundation in **OOP & Problem Solving**
+- Completed multiple courses in **Abu-Hadhoud Roadmap**
+- Consistently practicing and improving through real implementations
 
 ---
 
 ## 🎯 Currently Working On
-- Advancing in **C++ & OOP**
-- Algorithms & Problem Solving
-- Enhancing existing projects
-- Writing clean, well-documented code
-- Building a strong GitHub & LinkedIn profile
+- Building **Desktop Applications Using C# & Windows Forms**
+- Improving **code structure & clean code practices**
+- Debugging and handling real-world scenarios
+- Expanding my project portfolio
+- Strengthening my GitHub & LinkedIn presence
 
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="100" />
@@ -79,15 +88,16 @@ These projects are part of my learning journey, helping me improve my C++ skills
 
 ---
 
-```cpp
-// Learning by building, improving by practice
-class BassantFathy {
-public:
-    string university = "Al-Azhar University";
-    string currentFocus = "C++ & Object-Oriented Programming";
-    string passion = "Problem Solving & Project-Based Learning";
+```csharp
+// Turning logic into real applications
+class BassantFathy
+{
+    public string CurrentFocus = "C# & .NET (Windows Forms)";
+    public string Background = "C++ & OOP";
+    public string Passion = "Problem Solving & Building Real Projects";
 
-    void sayHi() {
-        cout << "Thanks for visiting my profile!";
+    public void SayHi()
+    {
+        Console.WriteLine("Thanks for visiting my profile!");
     }
-};
+}
